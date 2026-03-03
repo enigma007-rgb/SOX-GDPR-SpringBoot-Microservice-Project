@@ -1,4 +1,4 @@
-```
+```java
 // ============================================================
 // FILE: shared-compliance-lib/annotation/PersonalData.java
 // PROPERTY: Consistency + Change
