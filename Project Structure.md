@@ -1,3 +1,4 @@
+```
 compliance-microservices/
 ├── api-gateway/
 │   ├── src/main/java/com/compliance/gateway/
@@ -99,3 +100,4 @@ compliance-microservices/
 │
 ├── docker-compose.yml
 └── pom.xml (parent)
+```
