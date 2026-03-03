@@ -1,4 +1,4 @@
-```
+
 # 10 Properties → Code Decision Traceability Map
 
 Every architectural and code decision maps to at least one property.
@@ -114,4 +114,4 @@ Nothing in this codebase is accidental.
 | `SoxReportService.generateComplianceReport()` | `SoxReportService.java` | Auditors get structured reports without engineering involvement — compliance is self-service |
 | Named volumes in Docker Compose | `docker-compose.yml` | Data persists across container restarts in local dev — no data loss during development |
 
-```
+
