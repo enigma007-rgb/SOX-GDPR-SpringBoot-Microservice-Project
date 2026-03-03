@@ -1,6 +1,7 @@
 SOX & GDPR Compliant Microservice — Full Text Architecture Diagram
 ----
 
+```
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
 ║              SOX & GDPR COMPLIANT JAVA SPRING BOOT MICROSERVICE ARCHITECTURE            ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════╝
@@ -234,3 +235,5 @@ SOX & GDPR Compliant Microservice — Full Text Architecture Diagram
   ──│   Blocked / rejected
   ◀──   Response back to caller
   [  ]  Compliance control checkpoint
+
+```
