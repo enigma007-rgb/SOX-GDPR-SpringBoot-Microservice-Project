@@ -1,3 +1,5 @@
+```
+
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║         COMPLETE DRY RUN — SOX & GDPR COMPLIANT EMPLOYEE-MS                ║
 ║         Tracing every layer: HTTP → Filter → Controller →                  ║
@@ -791,3 +793,5 @@ SECURITY TEAM asks: "What's in the employees table in MySQL?"
   → first_name_enc = 'oTsL9mNp...=='  (ciphertext — unreadable) ✅
   → Anyone with DB access sees only ciphertext,
     never plain text names or emails ✅
+
+```
